@@ -20,5 +20,10 @@ features = [
     'HtmlElement',
     'HtmlCanvasElement',
     'Node',
+    'Headers',
+    'Request',
+    'RequestInit',
+    'RequestMode',
+    'Response',
     'Window',
 ]
